@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+.venv
+
+# Reportes generados
+#reportes/*.html
+#reportes/*.pdf
+
+# Variables de entorno
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

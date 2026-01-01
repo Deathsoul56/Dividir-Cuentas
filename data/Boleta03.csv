@@ -1,0 +1,34 @@
+Cant,Producto,Total,Responsables
+1,Sandwich Hamburguesa Rodeo,7550,Caliban
+1,Mojito Tradicional,4900,Caliban
+1,Sandwich Churrasco Mexicano,7650,Sauron
+1,Bebida Lata 350 CC,2200,Sauron
+1,Sandwich Churrasco A lo Pobre,7200,Blob
+1,Cerveza Importada 500cc,3200,Blob
+1,Fuente Loncomilla,8000,Mastermind
+1,Jugo Natural,2200,Mastermind
+1,Sandwich Churrasco Rodeo,7950,Mystique
+1,Jugo Natural,2200,Mystique
+1,Super American Burger,8000,Toad
+1,Majito Tradicional,4900,Toad
+1,Sandwich Churrasco Rodeo,7950,Spike
+1,Sandwich Churrasco Rodeo,7950,Pyro
+1,Bebida 1.5 L,3500,Pyro;Spike
+1,Papas fritas Grande,3200,Blob
+1,Papas cheddar x1 carne,16990,Pyro;Spike;Caliban;Mystique
+1,Empanadas/Queso/4 ón/Ciboulette x6,5200,Mastermind;Toad
+I,Empanadas/Queso/Camar ón/Ciboulette x6,5200,Pyro;Spike;Mystique;Sauron
+1,Empanadas/Queso/Camar ón/Ciboulette x6,5200,Pyro;Spike;Mystique;Sauron
+1,Mojito Tradicional,4900,Sauron
+1,Fuente Loncomilla,8000,Caliban
+1,Sandwich Hamburguesa Rodeo,7550,Toad
+1,Papas fritas Grande,3200,Spike
+1,Sandwich Churrasco Chacarero,6900,Mystique
+1,Sandwich Churrasco Barros Luco,7300,Pyro
+1,Té,1200,Pyro
+1,Té,1200,Spike
+1,Energética,2200,Mystique
+Total,General Mesa,163590,
+Consumo,Cliente,163590,
+Propina,Sugerida,16359,
+Total,c/propina,179949,

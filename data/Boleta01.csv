@@ -1,0 +1,16 @@
+Cant,Producto,Total,Responsables
+5,LOMO SALTADO,81000,"Wolverine;Storm;Jean Grey;Cyclops;Rogue"
+1,FILETE MAR Y TIERRA,17900,"Professor X"
+2,AJI GALLINA,23000,"Nightcrawler;Colossus"
+1,FILETE SALSA OLIVAR,16900,"Gambit"
+1,PESCADO CAJAMARQUINA,15500,"Beast"
+1,SALMON AJI SECO,17600,"Bishop"
+1,CEVICHE MIXTO ESP,16500,"Psylocke"
+1,LIMONADA,4200,"Beast"
+5,LIMONADA GEN/MENT,24500,"Wolverine;Storm;Gambit;Bishop;Rogue"
+2,COCA COLA 350CC,6400,"Psylocke;Jean Grey"
+4,COCA ZERO 350CC,12800,"Professor X;Nightcrawler;Colossus;Cyclops"
+Total,General Mesa,236300,
+Consumo,Cliente,236300,
+Propina,Sugerida,23630,
+Total,c/propina,259930,

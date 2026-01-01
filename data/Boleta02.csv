@@ -1,0 +1,14 @@
+Cant,Producto,Total,Responsables
+1,Jugo Limonada,3150,Beak
+1,Jugo Piña,3150,Jubilee
+1,Limonada Menta-Jenjibre,3400,Rockslide
+1,Jugo Frambuesa,3150,Pixie
+1,Mix Empanada,7800,Beak;Pixie;Rockslide;Jubilee
+2,Filete Italiano,25900,Rockslide;Jubilee
+1,Lengua Completa,10150,Beak
+1,Hamb Italiana,8950,Pixie
+1,Manjar de Los Dioses,4650,Beak
+Total,General Mesa,70300,
+Consumo,Cliente,70300,
+Propina,Sugerida,7030,
+Total,c/propina,77330,
