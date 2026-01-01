@@ -544,6 +544,15 @@ def generar_dashboard_html(stats_responsables, tabla_productos, tabla_precios,
             setTimeout(inicializarApp, 100);
         }});
     </script>
+    <footer style="text-align: center; padding: 0; margin: 0; font-size: 11px; color: #888; line-height: 1.3;">
+        <p style="margin: 0; padding-top: 5px;">
+            Este proyecto es de código abierto bajo la 
+            <a href="https://opensource.org/licenses/MIT" target="_blank" style="color: #666; text-decoration: none;">Licencia MIT</a>
+        </p>
+        <p style="margin: 0;">
+            Creado por <a href="https://github.com/Deathsoul56" target="_blank" style="color: #666; text-decoration: none; font-weight: 500;">Deathsoul56</a>
+        </p>
+    </footer>
 </body>
 </html>'''
     

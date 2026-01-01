@@ -511,7 +511,7 @@ if __name__ == "__main__":
     """Función principal que ejecuta todo el análisis"""
     
     # Configuración del archivo CSV
-    ARCHIVO_CSV = 'sushi_paz.csv'
+    ARCHIVO_CSV = 'Boleta04.csv'
     
     # Cargar y procesar datos
     df, total_cuenta, total_con_propina = cargar_y_procesar_csv(ARCHIVO_CSV)
