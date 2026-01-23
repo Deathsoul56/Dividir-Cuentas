@@ -266,7 +266,7 @@ def grafico_barras(stats_responsables, palette):
         palette=palette,
         legend=False
     )
-    plt.title('Distribución del Gasto con Propina (10%) por Responsable', fontsize=16)
+    plt.title(f'Distribución del Gasto con Propina ({Config.PROPINA_PORCENTAJE}%) por Responsable', fontsize=16)
     plt.xlabel('Responsable', fontsize=12)
     plt.ylabel('Total + Propina ($)', fontsize=12)
     plt.xticks(rotation=45)

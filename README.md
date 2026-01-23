@@ -158,4 +158,4 @@ Para preguntas o sugerencias, por favor abre un issue en el repositorio.
 
 ---
 
-**Desarrollado porque me llego un ataque de autismo y me dieron**
+**Desarrollado porque me llego un ataque de autismo y me dieron ganas de programar**

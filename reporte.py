@@ -298,8 +298,8 @@ def generar_dashboard_html(stats_responsables, tabla_productos, tabla_precios,
                             <span>{row_precios['Subtotal']}</span>
                         </div>
                         <div class="total-item">
-                            <span>Propina (10%):</span>
-                            <span>{row_precios['Propina (10%)']}</span>
+                            <span>Propina ({propina_porcentaje}%):</span>
+                            <span>{row_precios[f'Propina ({propina_porcentaje}%)']}</span>
                         </div>
                         <div class="total-item final">
                             <span>Total a Pagar:</span>
